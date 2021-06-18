@@ -10,6 +10,15 @@ explains how to reproduce my awesome publication
 pip install -r requirements.txt
 ```
 
+# clone and install the brainstat
+
+```
+git clone https://github.com/MICA-MNI/BrainStat.git
+cd BrainStat
+python3 setup.py build
+python3 setup.py install --user
+```
+
 # running the code
 navigate to the "code" directory firstly and run the "analysis_01.py" script. 
 
