@@ -22,12 +22,9 @@ python3 setup.py install --user
 # create a virtual environment with pip
 
 ```
-#!/bin/bash
 pip install virtualenv #install the package
 virtualenv --python=python3 mypythonenv #create a new virtual environment
 source mypythonenv/bin/activate #activate the virtual environment
-# now install your packages with pip and do the analysis
-deactivate #deactivate the virtual environment
 ```
 
 # running the code
