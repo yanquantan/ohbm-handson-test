@@ -35,3 +35,5 @@ $ cd code
 $ python3 analysis_01.py
 ```
 
+# running on cloud
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yanquantan/ohbm-handson-test/HEAD)
