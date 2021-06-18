@@ -40,5 +40,7 @@ $ python3 analysis_01.py
 
 # acknowledgements
 Slides: https://ohbm.github.io/handson-2021-reproducible-workflows/presentation/ohbm-handson-repro.html#/
+
 Main repo: https://github.com/ohbm/handson-2021-reproducible-workflows
+
 Additional info on datalad: https://github.com/datalad-handbook/datalad-tutorial-binder
