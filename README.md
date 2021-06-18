@@ -37,3 +37,8 @@ $ python3 analysis_01.py
 
 # running on cloud
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yanquantan/ohbm-handson-test/HEAD)
+
+# acknowledgements
+Slides: https://ohbm.github.io/handson-2021-reproducible-workflows/presentation/ohbm-handson-repro.html#/
+Main repo: https://github.com/ohbm/handson-2021-reproducible-workflows
+Additional info on datalad: https://github.com/datalad-handbook/datalad-tutorial-binder
